@@ -1,0 +1,42 @@
+.tagline{
+font-family: 'Pacifico', cursive;
+font-size: 1.5em;
+color:#000000;
+}
+.logo{
+background-color: rgba(255,255,255,0.3);
+border-radius:1em;
+}
+.imi{
+  height:100%;
+  width:100%;
+}
+body{
+  background-image:url("https://1cqgxm3l59yi2wwbnn3qy35h-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/Monicas-apartment-on-Friends-5.jpg");
+background-position:left top;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+  padding:2% 2% 1% 2%;
+}
+.yay{
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size:1em;
+  background-color:rgba(0,0,0,0.5);
+  color:#FFFFFF;
+background-blend-mode: darken;
+}
+.indi{
+font-family: 'Courgette', cursive;
+  font-size: 1.5em;
+  color:#000000;
+}
+.col-lg-4{
+  border-color:rgba(255,255,255,0.5);
+  border-style: solid;
+  border-width:medium;
+  border-radius: 2em;
+}
+a{
+  color:#000000;
+  text-decoration: underline;
+}
